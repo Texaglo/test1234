@@ -1,0 +1,22 @@
+{
+  "name": "BOTTLE VIKING BLUE #25",
+  "description": "BOTTLE VIKING BLUE",
+  "symbol": "catalyst",
+  "image": "25.png",
+  "dna": "53caa67a3cc0c98f5207e1a34eb24d7c252da700",
+  "edition": 25,
+  "seller_fee_basis_points": 500,
+  "date": 1655025065295,
+  "attributes": [
+    {
+      "trait_type": "catalyst",
+      "value": "BOTTLE VIKING BLUE-01"
+    }
+  ],
+  "properties": {
+    "creators": [
+      { "address": "7im44qw4T9UA6P3czi1Cr1pPabf1xqwqgJnLN5bR2FnZ", "share": 100 }
+    ]
+  },
+  "compiler": "HashLips Art Engine"
+}

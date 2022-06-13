@@ -1,0 +1,22 @@
+{
+  "name": "Hindu Shrivatsa Shield Lv 4 #20",
+  "description": "Hindu Shrivatsa Shield Lv 4",
+  "symbol": "Miscellaneous",
+  "image": "20.png",
+  "dna": "ffd6e7d76bb3e3e9f04e78012141de643eb28ec8",
+  "edition": 20,
+  "seller_fee_basis_points": 500,
+  "date": 1655027611417,
+  "attributes": [
+    {
+      "trait_type": "Miscellaneous",
+      "value": "Hindu Shrivatsa Shield Lv 4"
+    }
+  ],
+  "properties": {
+    "creators": [
+      { "address": "7im44qw4T9UA6P3czi1Cr1pPabf1xqwqgJnLN5bR2FnZ", "share": 100 }
+    ]
+  },
+  "compiler": "HashLips Art Engine"
+}

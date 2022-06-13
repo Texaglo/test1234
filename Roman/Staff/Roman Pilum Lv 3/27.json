@@ -1,0 +1,22 @@
+{
+  "name": "Roman Pilum Lv 3 #27",
+  "description": "Roman Pilum Lv 3",
+  "symbol": "Roman",
+  "image": "27.png",
+  "dna": "e0cf43a0902b1c5b3f555a2e13fdc8fcade7ed81",
+  "edition": 27,
+  "seller_fee_basis_points": 500,
+  "date": 1655028111775,
+  "attributes": [
+    {
+      "trait_type": "Roman",
+      "value": "Roman Pilum Lv 3"
+    }
+  ],
+  "properties": {
+    "creators": [
+      { "address": "7im44qw4T9UA6P3czi1Cr1pPabf1xqwqgJnLN5bR2FnZ", "share": 100 }
+    ]
+  },
+  "compiler": "HashLips Art Engine"
+}

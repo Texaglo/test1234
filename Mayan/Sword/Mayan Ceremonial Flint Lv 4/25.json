@@ -1,0 +1,22 @@
+{
+  "name": "Mayan Ceremonial Flint Lv 4 #25",
+  "description": "Mayan Ceremonial Flint Lv 4",
+  "symbol": "Mayan",
+  "image": "25.png",
+  "dna": "9d1261c7051fcdd47b2bf5867a019a58bd175f44",
+  "edition": 25,
+  "seller_fee_basis_points": 500,
+  "date": 1655027374488,
+  "attributes": [
+    {
+      "trait_type": "Mayan",
+      "value": "Mayan Ceremonial Flint Lv 4"
+    }
+  ],
+  "properties": {
+    "creators": [
+      { "address": "7im44qw4T9UA6P3czi1Cr1pPabf1xqwqgJnLN5bR2FnZ", "share": 100 }
+    ]
+  },
+  "compiler": "HashLips Art Engine"
+}

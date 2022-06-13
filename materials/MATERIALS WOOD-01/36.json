@@ -1,0 +1,22 @@
+{
+  "name": "MATERIALS WOOD #36",
+  "description": "MATERIALS WOOD",
+  "symbol": "Materials",
+  "image": "36.png",
+  "dna": "07996853524cba4dad396dcc38040e2c9a45c2b8",
+  "edition": 36,
+  "seller_fee_basis_points": 500,
+  "date": 1655026667303,
+  "attributes": [
+    {
+      "trait_type": "materials",
+      "value": "MATERIALS WOOD-01"
+    }
+  ],
+  "properties": {
+    "creators": [
+      { "address": "7im44qw4T9UA6P3czi1Cr1pPabf1xqwqgJnLN5bR2FnZ", "share": 100 }
+    ]
+  },
+  "compiler": "HashLips Art Engine"
+}

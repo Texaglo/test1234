@@ -1,0 +1,22 @@
+{
+  "name": "Viking Gungnir Lv 4 #35",
+  "description": "Viking Gungnir Lv 4",
+  "symbol": "Viking",
+  "image": "35.png",
+  "dna": "e9d6d8fd4ab561f3877a5c86b072c1cdcc19dd8a",
+  "edition": 35,
+  "seller_fee_basis_points": 500,
+  "date": 1655028436474,
+  "attributes": [
+    {
+      "trait_type": "Viking",
+      "value": "Viking Gungnir Lv 4"
+    }
+  ],
+  "properties": {
+    "creators": [
+      { "address": "7im44qw4T9UA6P3czi1Cr1pPabf1xqwqgJnLN5bR2FnZ", "share": 100 }
+    ]
+  },
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Mayan Tepoztli Lv 2 #20",
+  "description": "Mayan Tepoztli Lv 2",
+  "symbol": "Mayan",
+  "image": "20.png",
+  "dna": "a1c49cf0ee3d8249b5895fda24e051795814ada2",
+  "edition": 20,
+  "seller_fee_basis_points": 500,
+  "date": 1655026980116,
+  "attributes": [
+    {
+      "trait_type": "Mayan",
+      "value": "Mayan Tepoztli Lv 2"
+    }
+  ],
+  "properties": {
+    "creators": [
+      { "address": "7im44qw4T9UA6P3czi1Cr1pPabf1xqwqgJnLN5bR2FnZ", "share": 100 }
+    ]
+  },
+  "compiler": "HashLips Art Engine"
+}

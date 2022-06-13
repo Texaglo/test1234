@@ -1,0 +1,22 @@
+{
+  "name": "SPIRIT GEM #6",
+  "description": "SPIRIT GEM",
+  "symbol": "Gems",
+  "image": "6.png",
+  "dna": "50d4ba6d4d80a18e337ca9ca1764d4467952ad29",
+  "edition": 6,
+  "seller_fee_basis_points": 500,
+  "date": 1655026094732,
+  "attributes": [
+    {
+      "trait_type": "gems",
+      "value": "SPIRIT GEM-01"
+    }
+  ],
+  "properties": {
+    "creators": [
+      { "address": "7im44qw4T9UA6P3czi1Cr1pPabf1xqwqgJnLN5bR2FnZ", "share": 100 }
+    ]
+  },
+  "compiler": "HashLips Art Engine"
+}

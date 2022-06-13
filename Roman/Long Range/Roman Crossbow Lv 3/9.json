@@ -1,0 +1,22 @@
+{
+  "name": "Roman Crossbow Lv 3 #9",
+  "description": "Roman Crossbow Lv 3",
+  "symbol": "Roman",
+  "image": "9.png",
+  "dna": "891d6c3ff74d63ac16ebd30489b196c24de86d06",
+  "edition": 9,
+  "seller_fee_basis_points": 500,
+  "date": 1655027888141,
+  "attributes": [
+    {
+      "trait_type": "Roman",
+      "value": "Roman Crossbow Lv 3"
+    }
+  ],
+  "properties": {
+    "creators": [
+      { "address": "7im44qw4T9UA6P3czi1Cr1pPabf1xqwqgJnLN5bR2FnZ", "share": 100 }
+    ]
+  },
+  "compiler": "HashLips Art Engine"
+}

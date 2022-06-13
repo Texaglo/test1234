@@ -1,0 +1,22 @@
+{
+  "name": "GEMS LIGHT #10",
+  "description": "GEMS LIGHT",
+  "symbol": "Gems",
+  "image": "10.png",
+  "dna": "e0c6e8a618263cc888974849044a82e2ea4e43a9",
+  "edition": 10,
+  "seller_fee_basis_points": 500,
+  "date": 1655025925857,
+  "attributes": [
+    {
+      "trait_type": "gems",
+      "value": "GEMS LIGHT-01"
+    }
+  ],
+  "properties": {
+    "creators": [
+      { "address": "7im44qw4T9UA6P3czi1Cr1pPabf1xqwqgJnLN5bR2FnZ", "share": 100 }
+    ]
+  },
+  "compiler": "HashLips Art Engine"
+}

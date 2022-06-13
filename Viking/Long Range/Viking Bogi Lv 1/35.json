@@ -1,0 +1,22 @@
+{
+  "name": "Viking Bogi Lv 1 #35",
+  "description": "Viking Bogi Lv 1",
+  "symbol": "Viking",
+  "image": "35.png",
+  "dna": "61429a754aed07c180a779df2cd3e316567f16bd",
+  "edition": 35,
+  "seller_fee_basis_points": 500,
+  "date": 1655028254721,
+  "attributes": [
+    {
+      "trait_type": "Viking",
+      "value": "Viking Bogi Lv 1"
+    }
+  ],
+  "properties": {
+    "creators": [
+      { "address": "7im44qw4T9UA6P3czi1Cr1pPabf1xqwqgJnLN5bR2FnZ", "share": 100 }
+    ]
+  },
+  "compiler": "HashLips Art Engine"
+}

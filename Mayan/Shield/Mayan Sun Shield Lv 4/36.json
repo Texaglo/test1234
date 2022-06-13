@@ -1,0 +1,22 @@
+{
+  "name": "Mayan Sun Shield Lv 4 #36",
+  "description": "Mayan Sun Shield Lv 4",
+  "symbol": "Mayan",
+  "image": "36.png",
+  "dna": "6bd888398ed20aa96e2345df26c6fc3b61066247",
+  "edition": 36,
+  "seller_fee_basis_points": 500,
+  "date": 1655027264426,
+  "attributes": [
+    {
+      "trait_type": "Mayan",
+      "value": "Mayan Sun Shield Lv 4"
+    }
+  ],
+  "properties": {
+    "creators": [
+      { "address": "7im44qw4T9UA6P3czi1Cr1pPabf1xqwqgJnLN5bR2FnZ", "share": 100 }
+    ]
+  },
+  "compiler": "HashLips Art Engine"
+}

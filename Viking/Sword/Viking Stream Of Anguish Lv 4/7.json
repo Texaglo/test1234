@@ -1,0 +1,22 @@
+{
+  "name": "Viking Stream Of Anguish Lv 4 #7",
+  "description": "Viking Stream Of Anguish Lv 4",
+  "symbol": "Viking",
+  "image": "7.png",
+  "dna": "55c8d3ecb9be382c57842f9fdc84fa4c60e0138c",
+  "edition": 7,
+  "seller_fee_basis_points": 500,
+  "date": 1655028458800,
+  "attributes": [
+    {
+      "trait_type": "Viking",
+      "value": "Viking Stream Of Anguish Lv 4"
+    }
+  ],
+  "properties": {
+    "creators": [
+      { "address": "7im44qw4T9UA6P3czi1Cr1pPabf1xqwqgJnLN5bR2FnZ", "share": 100 }
+    ]
+  },
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Roman Flail Lv 3 #8",
+  "description": "Roman Flail Lv 3",
+  "symbol": "Roman",
+  "image": "8.png",
+  "dna": "ba7553b4fce1b1810a67a225f2c07de7195bfee9",
+  "edition": 8,
+  "seller_fee_basis_points": 500,
+  "date": 1655027803679,
+  "attributes": [
+    {
+      "trait_type": "Roman",
+      "value": "Roman Flail Lv 3"
+    }
+  ],
+  "properties": {
+    "creators": [
+      { "address": "7im44qw4T9UA6P3czi1Cr1pPabf1xqwqgJnLN5bR2FnZ", "share": 100 }
+    ]
+  },
+  "compiler": "HashLips Art Engine"
+}

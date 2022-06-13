@@ -1,0 +1,22 @@
+{
+  "name": "Mayan Macuahuitl Lv 4 #36",
+  "description": "Mayan Macuahuitl Lv 4",
+  "symbol": "Mayan",
+  "image": "36.png",
+  "dna": "16749f60a8b1ba9128eb74b5adf98da8d7485e13",
+  "edition": 36,
+  "seller_fee_basis_points": 500,
+  "date": 1655026875418,
+  "attributes": [
+    {
+      "trait_type": "Mayan",
+      "value": "Mayan Macuahuitl Lv 4"
+    }
+  ],
+  "properties": {
+    "creators": [
+      { "address": "7im44qw4T9UA6P3czi1Cr1pPabf1xqwqgJnLN5bR2FnZ", "share": 100 }
+    ]
+  },
+  "compiler": "HashLips Art Engine"
+}

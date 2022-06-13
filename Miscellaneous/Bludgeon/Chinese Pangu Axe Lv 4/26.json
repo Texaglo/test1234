@@ -1,0 +1,22 @@
+{
+  "name": "Chinese Pangu Axe Lv 4 #26",
+  "description": "Chinese Pangu Axe Lv 4",
+  "symbol": "Miscellaneous",
+  "image": "26.png",
+  "dna": "8a6b1fb4cc6bcb1b996dfe701fd0265cff98d171",
+  "edition": 26,
+  "seller_fee_basis_points": 500,
+  "date": 1655027498917,
+  "attributes": [
+    {
+      "trait_type": "Miscellaneous",
+      "value": "Chinese Pangu Axe Lv 4"
+    }
+  ],
+  "properties": {
+    "creators": [
+      { "address": "7im44qw4T9UA6P3czi1Cr1pPabf1xqwqgJnLN5bR2FnZ", "share": 100 }
+    ]
+  },
+  "compiler": "HashLips Art Engine"
+}

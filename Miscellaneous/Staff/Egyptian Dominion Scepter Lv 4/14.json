@@ -1,0 +1,22 @@
+{
+  "name": "Egyptian Dominion Scepter Lv 4 #14",
+  "description": "Egyptian Dominion Scepter Lv 4",
+  "symbol": "Miscellaneous",
+  "image": "14.png",
+  "dna": "20544e7494f9f502dc50fefeb235b71c235b0f82",
+  "edition": 14,
+  "seller_fee_basis_points": 500,
+  "date": 1655027657451,
+  "attributes": [
+    {
+      "trait_type": "Miscellaneous",
+      "value": "Egyptian Dominion Scepter Lv 4"
+    }
+  ],
+  "properties": {
+    "creators": [
+      { "address": "7im44qw4T9UA6P3czi1Cr1pPabf1xqwqgJnLN5bR2FnZ", "share": 100 }
+    ]
+  },
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Knight Excalibur Sword Lv 4 #18",
+  "description": "Knight Excalibur Sword Lv 4",
+  "symbol": "Miscellaneous",
+  "image": "18.png",
+  "dna": "40e390b9cac56c63f2105262ad7200f1183cfafc",
+  "edition": 18,
+  "seller_fee_basis_points": 500,
+  "date": 1655027706258,
+  "attributes": [
+    {
+      "trait_type": "Miscellaneous",
+      "value": "Knight Excalibur Sword Lv 4"
+    }
+  ],
+  "properties": {
+    "creators": [
+      { "address": "7im44qw4T9UA6P3czi1Cr1pPabf1xqwqgJnLN5bR2FnZ", "share": 100 }
+    ]
+  },
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Viking Mjolnir Lv 4 #36",
+  "description": "Viking Mjolnir Lv 4",
+  "symbol": "Viking",
+  "image": "36.png",
+  "dna": "91467d984715dae79c637ff830ad14c73b5d912c",
+  "edition": 36,
+  "seller_fee_basis_points": 500,
+  "date": 1655028185903,
+  "attributes": [
+    {
+      "trait_type": "Viking",
+      "value": "Viking Mjolnir Lv 4"
+    }
+  ],
+  "properties": {
+    "creators": [
+      { "address": "7im44qw4T9UA6P3czi1Cr1pPabf1xqwqgJnLN5bR2FnZ", "share": 100 }
+    ]
+  },
+  "compiler": "HashLips Art Engine"
+}

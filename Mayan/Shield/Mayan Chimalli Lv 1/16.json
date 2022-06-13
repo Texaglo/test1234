@@ -1,0 +1,22 @@
+{
+  "name": "Mayan Chimalli Lv 1 #16",
+  "description": "Mayan Chimalli Lv 1",
+  "symbol": "Mayan",
+  "image": "16.png",
+  "dna": "d9b2d6c9a6491e1e4f8be0ea54cb6712614c55ca",
+  "edition": 16,
+  "seller_fee_basis_points": 500,
+  "date": 1655027165869,
+  "attributes": [
+    {
+      "trait_type": "Mayan",
+      "value": "Mayan Chimalli Lv 1"
+    }
+  ],
+  "properties": {
+    "creators": [
+      { "address": "7im44qw4T9UA6P3czi1Cr1pPabf1xqwqgJnLN5bR2FnZ", "share": 100 }
+    ]
+  },
+  "compiler": "HashLips Art Engine"
+}

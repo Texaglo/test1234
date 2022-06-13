@@ -1,0 +1,22 @@
+{
+  "name": "ROMAN BOTTLE RED #33",
+  "description": "ROMAN BOTTLE RED",
+  "symbol": "catalyst",
+  "image": "33.png",
+  "dna": "9b441dbea40af4db7d387ac06a0d5fe27afc6428",
+  "edition": 33,
+  "seller_fee_basis_points": 500,
+  "date": 1655025087607,
+  "attributes": [
+    {
+      "trait_type": "catalyst",
+      "value": "ROMAN BOTTLE RED-01"
+    }
+  ],
+  "properties": {
+    "creators": [
+      { "address": "7im44qw4T9UA6P3czi1Cr1pPabf1xqwqgJnLN5bR2FnZ", "share": 100 }
+    ]
+  },
+  "compiler": "HashLips Art Engine"
+}

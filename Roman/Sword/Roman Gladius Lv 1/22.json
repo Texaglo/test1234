@@ -1,0 +1,22 @@
+{
+  "name": "Roman Gladius Lv 1 #22",
+  "description": "Roman Gladius Lv 1",
+  "symbol": "Roman",
+  "image": "22.png",
+  "dna": "4a1aaa141ab789bf277a379c76f34cb4b4e880db",
+  "edition": 22,
+  "seller_fee_basis_points": 500,
+  "date": 1655028058299,
+  "attributes": [
+    {
+      "trait_type": "Roman",
+      "value": "Roman Gladius Lv 1"
+    }
+  ],
+  "properties": {
+    "creators": [
+      { "address": "7im44qw4T9UA6P3czi1Cr1pPabf1xqwqgJnLN5bR2FnZ", "share": 100 }
+    ]
+  },
+  "compiler": "HashLips Art Engine"
+}

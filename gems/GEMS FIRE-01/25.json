@@ -1,0 +1,22 @@
+{
+  "name": "GEMS FIRE #25",
+  "description": "GEMS FIRE",
+  "symbol": "Gems",
+  "image": "25.png",
+  "dna": "9bc4e18decace4a0d84a3d23dd71b7f66952636f",
+  "edition": 25,
+  "seller_fee_basis_points": 500,
+  "date": 1655025765369,
+  "attributes": [
+    {
+      "trait_type": "gems",
+      "value": "GEMS FIRE-01"
+    }
+  ],
+  "properties": {
+    "creators": [
+      { "address": "7im44qw4T9UA6P3czi1Cr1pPabf1xqwqgJnLN5bR2FnZ", "share": 100 }
+    ]
+  },
+  "compiler": "HashLips Art Engine"
+}

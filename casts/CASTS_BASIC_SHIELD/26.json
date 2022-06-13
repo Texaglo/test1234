@@ -1,0 +1,22 @@
+{
+  "name": "CASTS_BASIC_SHIELD #26",
+  "description": "CASTS_BASIC_SHIELD",
+  "symbol": "Casts",
+  "image": "26.png",
+  "dna": "133cfa532fbed54b13c3a25aa8361be4a3b8286d",
+  "edition": 26,
+  "seller_fee_basis_points": 500,
+  "date": 1655024750302,
+  "attributes": [
+    {
+      "trait_type": "casts",
+      "value": "CASTS_BASIC_SHIELD-01"
+    }
+  ],
+  "properties": {
+    "creators": [
+      { "address": "7im44qw4T9UA6P3czi1Cr1pPabf1xqwqgJnLN5bR2FnZ", "share": 100 }
+    ]
+  },
+  "compiler": "HashLips Art Engine"
+}

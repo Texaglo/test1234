@@ -1,0 +1,22 @@
+{
+  "name": "Roman Crossbow Lv 2 #34",
+  "description": "Roman Crossbow Lv 2",
+  "symbol": "Roman",
+  "image": "34.png",
+  "dna": "74c2e3a51099bf88c37457de635fdb5fe62541c4",
+  "edition": 34,
+  "seller_fee_basis_points": 500,
+  "date": 1655027877536,
+  "attributes": [
+    {
+      "trait_type": "Roman",
+      "value": "Roman Crossbow Lv 2"
+    }
+  ],
+  "properties": {
+    "creators": [
+      { "address": "7im44qw4T9UA6P3czi1Cr1pPabf1xqwqgJnLN5bR2FnZ", "share": 100 }
+    ]
+  },
+  "compiler": "HashLips Art Engine"
+}

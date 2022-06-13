@@ -1,0 +1,22 @@
+{
+  "name": "MATERIALS DIAMOND #25",
+  "description": "MATERIALS DIAMOND",
+  "symbol": "Materials",
+  "image": "25.png",
+  "dna": "61f256bd8cfd0574e12aceae856db2654f5ce657",
+  "edition": 25,
+  "seller_fee_basis_points": 500,
+  "date": 1655026322954,
+  "attributes": [
+    {
+      "trait_type": "materials",
+      "value": "MATERIALS DIAMOND-01"
+    }
+  ],
+  "properties": {
+    "creators": [
+      { "address": "7im44qw4T9UA6P3czi1Cr1pPabf1xqwqgJnLN5bR2FnZ", "share": 100 }
+    ]
+  },
+  "compiler": "HashLips Art Engine"
+}

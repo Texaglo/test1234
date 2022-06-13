@@ -1,0 +1,22 @@
+{
+  "name": "GEMS WIND #6",
+  "description": "GEMS WIND",
+  "symbol": "Gems",
+  "image": "6.png",
+  "dna": "2800dc350ee3365075e5091ac7827201f94430d8",
+  "edition": 6,
+  "seller_fee_basis_points": 500,
+  "date": 1655026005072,
+  "attributes": [
+    {
+      "trait_type": "gems",
+      "value": "GEMS WIND-01"
+    }
+  ],
+  "properties": {
+    "creators": [
+      { "address": "7im44qw4T9UA6P3czi1Cr1pPabf1xqwqgJnLN5bR2FnZ", "share": 100 }
+    ]
+  },
+  "compiler": "HashLips Art Engine"
+}

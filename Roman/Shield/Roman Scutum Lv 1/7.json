@@ -1,0 +1,22 @@
+{
+  "name": "Roman Scutum Lv 1 #7",
+  "description": "Roman Scutum Lv 1",
+  "symbol": "Roman",
+  "image": "7.png",
+  "dna": "0813822eb5e354ad7372efc33e89f52fa4f7262e",
+  "edition": 7,
+  "seller_fee_basis_points": 500,
+  "date": 1655027927984,
+  "attributes": [
+    {
+      "trait_type": "Roman",
+      "value": "Roman Scutum Lv 1"
+    }
+  ],
+  "properties": {
+    "creators": [
+      { "address": "7im44qw4T9UA6P3czi1Cr1pPabf1xqwqgJnLN5bR2FnZ", "share": 100 }
+    ]
+  },
+  "compiler": "HashLips Art Engine"
+}

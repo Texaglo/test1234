@@ -1,0 +1,22 @@
+{
+  "name": "Mayan Tecpatl Lv 3 #32",
+  "description": "Mayan Tecpatl Lv 3",
+  "symbol": "Mayan",
+  "image": "32.png",
+  "dna": "4a3685167bb99431d3e781245d3856181de69f2b",
+  "edition": 32,
+  "seller_fee_basis_points": 500,
+  "date": 1655027427447,
+  "attributes": [
+    {
+      "trait_type": "Mayan",
+      "value": "Mayan Tecpatl Lv 3"
+    }
+  ],
+  "properties": {
+    "creators": [
+      { "address": "7im44qw4T9UA6P3czi1Cr1pPabf1xqwqgJnLN5bR2FnZ", "share": 100 }
+    ]
+  },
+  "compiler": "HashLips Art Engine"
+}

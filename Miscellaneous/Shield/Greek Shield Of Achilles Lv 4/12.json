@@ -1,0 +1,22 @@
+{
+  "name": "Greek Shield Of Achilles Lv 4 #12",
+  "description": "Greek Shield Of Achilles Lv 4",
+  "symbol": "Miscellaneous",
+  "image": "12.png",
+  "dna": "b3b33fa802ceaa98fb22aab33c883349af2ebb70",
+  "edition": 12,
+  "seller_fee_basis_points": 500,
+  "date": 1655027596552,
+  "attributes": [
+    {
+      "trait_type": "Miscellaneous",
+      "value": "Greek Shield Of Achilles Lv 4"
+    }
+  ],
+  "properties": {
+    "creators": [
+      { "address": "7im44qw4T9UA6P3czi1Cr1pPabf1xqwqgJnLN5bR2FnZ", "share": 100 }
+    ]
+  },
+  "compiler": "HashLips Art Engine"
+}

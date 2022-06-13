@@ -1,0 +1,22 @@
+{
+  "name": "Viking Sverd Lv 1 #11",
+  "description": "Viking Sverd Lv 1",
+  "symbol": "Viking",
+  "image": "11.png",
+  "dna": "a39eef00f85d7ec0eefc4171deb4193fe42c6b59",
+  "edition": 11,
+  "seller_fee_basis_points": 500,
+  "date": 1655028472207,
+  "attributes": [
+    {
+      "trait_type": "Viking",
+      "value": "Viking Sverd Lv 1"
+    }
+  ],
+  "properties": {
+    "creators": [
+      { "address": "7im44qw4T9UA6P3czi1Cr1pPabf1xqwqgJnLN5bR2FnZ", "share": 100 }
+    ]
+  },
+  "compiler": "HashLips Art Engine"
+}

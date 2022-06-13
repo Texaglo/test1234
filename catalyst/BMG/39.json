@@ -1,0 +1,22 @@
+{
+  "name": "BOTTLE MAYAN GREEN #39",
+  "description": "BOTTLE MAYAN GREEN",
+  "symbol": "catalyst",
+  "image": "39.png",
+  "dna": "8c5f47da845f9c065208ffaeb529bf4680d15974",
+  "edition": 39,
+  "seller_fee_basis_points": 500,
+  "date": 1655025021387,
+  "attributes": [
+    {
+      "trait_type": "catalyst",
+      "value": "BOTTLE MAYAN GREEN-01"
+    }
+  ],
+  "properties": {
+    "creators": [
+      { "address": "7im44qw4T9UA6P3czi1Cr1pPabf1xqwqgJnLN5bR2FnZ", "share": 100 }
+    ]
+  },
+  "compiler": "HashLips Art Engine"
+}

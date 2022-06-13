@@ -1,0 +1,22 @@
+{
+  "name": "CASTS_BASIC_POLEARM #35",
+  "description": "CASTS_BASIC_POLEARM",
+  "symbol": "Casts",
+  "image": "35.png",
+  "dna": "09c130bf47b91b54a5490002086d9bea3bd21c73",
+  "edition": 35,
+  "seller_fee_basis_points": 500,
+  "date": 1655017825425,
+  "attributes": [
+    {
+      "trait_type": "casts",
+      "value": "CASTS_BASIC_POLEARM-01"
+    }
+  ],
+  "properties": {
+    "creators": [
+      { "address": "7im44qw4T9UA6P3czi1Cr1pPabf1xqwqgJnLN5bR2FnZ", "share": 100 }
+    ]
+  },
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Roman Scutum Lv 2 #20",
+  "description": "Roman Scutum Lv 2",
+  "symbol": "Roman",
+  "image": "20.png",
+  "dna": "6c8416bceef28b3ae7c775c538ac6121fef0325a",
+  "edition": 20,
+  "seller_fee_basis_points": 500,
+  "date": 1655027942252,
+  "attributes": [
+    {
+      "trait_type": "Roman",
+      "value": "Roman Scutum Lv 2"
+    }
+  ],
+  "properties": {
+    "creators": [
+      { "address": "7im44qw4T9UA6P3czi1Cr1pPabf1xqwqgJnLN5bR2FnZ", "share": 100 }
+    ]
+  },
+  "compiler": "HashLips Art Engine"
+}

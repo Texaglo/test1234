@@ -1,0 +1,22 @@
+{
+  "name": "Viking Sverd Lv 3 #6",
+  "description": "Viking Sverd Lv 3",
+  "symbol": "Viking",
+  "image": "6.png",
+  "dna": "10f0c04ce4f1e559389f135a52d72cb544179b8f",
+  "edition": 6,
+  "seller_fee_basis_points": 500,
+  "date": 1655028497820,
+  "attributes": [
+    {
+      "trait_type": "Viking",
+      "value": "Viking Sverd Lv 3"
+    }
+  ],
+  "properties": {
+    "creators": [
+      { "address": "7im44qw4T9UA6P3czi1Cr1pPabf1xqwqgJnLN5bR2FnZ", "share": 100 }
+    ]
+  },
+  "compiler": "HashLips Art Engine"
+}

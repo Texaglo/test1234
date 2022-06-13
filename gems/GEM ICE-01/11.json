@@ -1,0 +1,22 @@
+{
+  "name": "GEM ICE #11",
+  "description": "GEM ICE",
+  "symbol": "Gems",
+  "image": "11.png",
+  "dna": "9560a7489406e3b02bef19eaf4e37e050f708da9",
+  "edition": 11,
+  "seller_fee_basis_points": 500,
+  "date": 1655025834913,
+  "attributes": [
+    {
+      "trait_type": "gems",
+      "value": "GEM ICE-01"
+    }
+  ],
+  "properties": {
+    "creators": [
+      { "address": "7im44qw4T9UA6P3czi1Cr1pPabf1xqwqgJnLN5bR2FnZ", "share": 100 }
+    ]
+  },
+  "compiler": "HashLips Art Engine"
+}

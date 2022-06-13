@@ -1,0 +1,22 @@
+{
+  "name": "MATERIALS GOLD #27",
+  "description": "MATERIALS GOLD",
+  "symbol": "Materials",
+  "image": "27.png",
+  "dna": "93d53b1dc06e9a25cfe7f309d2788176dbe6ffe7",
+  "edition": 27,
+  "seller_fee_basis_points": 500,
+  "date": 1655026404559,
+  "attributes": [
+    {
+      "trait_type": "materials",
+      "value": "MATERIALS GOLD-01"
+    }
+  ],
+  "properties": {
+    "creators": [
+      { "address": "7im44qw4T9UA6P3czi1Cr1pPabf1xqwqgJnLN5bR2FnZ", "share": 100 }
+    ]
+  },
+  "compiler": "HashLips Art Engine"
+}

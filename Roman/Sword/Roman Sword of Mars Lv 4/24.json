@@ -1,0 +1,22 @@
+{
+  "name": "Roman Sword of Mars Lv 4 #24",
+  "description": "Roman Sword of Mars Lv 4",
+  "symbol": "Roman",
+  "image": "24.png",
+  "dna": "403da17d23c5e449e1724ba7839a73b98096db70",
+  "edition": 24,
+  "seller_fee_basis_points": 500,
+  "date": 1655028021212,
+  "attributes": [
+    {
+      "trait_type": "Roman",
+      "value": "Roman Sword of Mars Lv 4"
+    }
+  ],
+  "properties": {
+    "creators": [
+      { "address": "7im44qw4T9UA6P3czi1Cr1pPabf1xqwqgJnLN5bR2FnZ", "share": 100 }
+    ]
+  },
+  "compiler": "HashLips Art Engine"
+}

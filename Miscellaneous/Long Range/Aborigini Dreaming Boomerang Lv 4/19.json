@@ -1,0 +1,22 @@
+{
+  "name": "Aborigini Dreaming Boomerang Lv 4 #19",
+  "description": "Aborigini Dreaming Boomerang Lv 4",
+  "symbol": "Miscellaneous",
+  "image": "19.png",
+  "dna": "c8148ea5042cb155d02045b79d9c6874aef8357e",
+  "edition": 19,
+  "seller_fee_basis_points": 500,
+  "date": 1655027543700,
+  "attributes": [
+    {
+      "trait_type": "Miscellaneous",
+      "value": "Aborigini Dreaming Boomerang Lv 4"
+    }
+  ],
+  "properties": {
+    "creators": [
+      { "address": "7im44qw4T9UA6P3czi1Cr1pPabf1xqwqgJnLN5bR2FnZ", "share": 100 }
+    ]
+  },
+  "compiler": "HashLips Art Engine"
+}

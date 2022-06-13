@@ -1,0 +1,22 @@
+{
+  "name": "CASTS_BASIC_LONG_RANGE #3",
+  "description": "CASTS_BASIC_LONG_RANGE",
+  "symbol": "Casts",
+  "image": "3.png",
+  "dna": "87c295e7ccfa3e96ae76333963dd4e4b89120c23",
+  "edition": 3,
+  "seller_fee_basis_points": 500,
+  "date": 1655017706958,
+  "attributes": [
+    {
+      "trait_type": "casts",
+      "value": "CASTS_BASIC_LONG_RANGE-01"
+    }
+  ],
+  "properties": {
+    "creators": [
+      { "address": "7im44qw4T9UA6P3czi1Cr1pPabf1xqwqgJnLN5bR2FnZ", "share": 100 }
+    ]
+  },
+  "compiler": "HashLips Art Engine"
+}

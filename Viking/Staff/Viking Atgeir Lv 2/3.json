@@ -1,0 +1,22 @@
+{
+  "name": "Viking Atgeir Lv 2 #3",
+  "description": "Viking Atgeir Lv 2",
+  "symbol": "Viking",
+  "image": "3.png",
+  "dna": "183c730082ab9e90a2681b71fe114df85c8a4a44",
+  "edition": 3,
+  "seller_fee_basis_points": 500,
+  "date": 1655028403619,
+  "attributes": [
+    {
+      "trait_type": "Viking",
+      "value": "Viking Atgeir Lv 2"
+    }
+  ],
+  "properties": {
+    "creators": [
+      { "address": "7im44qw4T9UA6P3czi1Cr1pPabf1xqwqgJnLN5bR2FnZ", "share": 100 }
+    ]
+  },
+  "compiler": "HashLips Art Engine"
+}

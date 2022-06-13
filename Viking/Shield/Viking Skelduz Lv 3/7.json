@@ -1,0 +1,22 @@
+{
+  "name": "Viking Skelduz Lv 3 #7",
+  "description": "Viking Skelduz Lv 3",
+  "symbol": "Viking",
+  "image": "7.png",
+  "dna": "8a42d1e7f34fc18039070006cc5f198571045f48",
+  "edition": 7,
+  "seller_fee_basis_points": 500,
+  "date": 1655028346645,
+  "attributes": [
+    {
+      "trait_type": "Viking",
+      "value": "Viking Skelduz Lv 3"
+    }
+  ],
+  "properties": {
+    "creators": [
+      { "address": "7im44qw4T9UA6P3czi1Cr1pPabf1xqwqgJnLN5bR2FnZ", "share": 100 }
+    ]
+  },
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "MATERIALS BRONZE #37",
+  "description": "MATERIALS BRONZE",
+  "symbol": "Materials",
+  "image": "37.png",
+  "dna": "da8eb9ef0f03d854bda5177946b883fc6c473bfc",
+  "edition": 37,
+  "seller_fee_basis_points": 500,
+  "date": 1655026262183,
+  "attributes": [
+    {
+      "trait_type": "materials",
+      "value": "MATERIALS BRONZE-01"
+    }
+  ],
+  "properties": {
+    "creators": [
+      { "address": "7im44qw4T9UA6P3czi1Cr1pPabf1xqwqgJnLN5bR2FnZ", "share": 100 }
+    ]
+  },
+  "compiler": "HashLips Art Engine"
+}

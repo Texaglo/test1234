@@ -1,0 +1,22 @@
+{
+  "name": "Mesopotamian Sharur Mace Lv 4 #36",
+  "description": "Mesopotamian Sharur Mace Lv 4",
+  "symbol": "Miscellaneous",
+  "image": "36.png",
+  "dna": "f7b5d4573bab0464053d2bd1ecf9ae6bb3eb6d24",
+  "edition": 36,
+  "seller_fee_basis_points": 500,
+  "date": 1655027516346,
+  "attributes": [
+    {
+      "trait_type": "Miscellaneous",
+      "value": "Mesopotamian Sharur Mace Lv 4"
+    }
+  ],
+  "properties": {
+    "creators": [
+      { "address": "7im44qw4T9UA6P3czi1Cr1pPabf1xqwqgJnLN5bR2FnZ", "share": 100 }
+    ]
+  },
+  "compiler": "HashLips Art Engine"
+}

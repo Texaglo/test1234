@@ -1,0 +1,22 @@
+{
+  "name": "Mayan Tecpatl Lv 2 #2",
+  "description": "Mayan Tecpatl Lv 2",
+  "symbol": "Mayan",
+  "image": "2.png",
+  "dna": "0b09698b6bb1f20b02a13c6311b30294757591a0",
+  "edition": 2,
+  "seller_fee_basis_points": 500,
+  "date": 1655027410490,
+  "attributes": [
+    {
+      "trait_type": "Mayan",
+      "value": "Mayan Tecpatl Lv 2"
+    }
+  ],
+  "properties": {
+    "creators": [
+      { "address": "7im44qw4T9UA6P3czi1Cr1pPabf1xqwqgJnLN5bR2FnZ", "share": 100 }
+    ]
+  },
+  "compiler": "HashLips Art Engine"
+}

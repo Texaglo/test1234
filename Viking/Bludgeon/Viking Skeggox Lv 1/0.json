@@ -1,0 +1,22 @@
+{
+  "name": "Viking Skeggox Lv 1 #0",
+  "description": "Viking Skeggox Lv 1",
+  "symbol": "Viking",
+  "image": "0.png",
+  "dna": "a5263b987030e1f74d516597585047c1802fce6a",
+  "edition": 0,
+  "seller_fee_basis_points": 500,
+  "date": 1655028200991,
+  "attributes": [
+    {
+      "trait_type": "Viking",
+      "value": "Viking Skeggox Lv 1"
+    }
+  ],
+  "properties": {
+    "creators": [
+      { "address": "7im44qw4T9UA6P3czi1Cr1pPabf1xqwqgJnLN5bR2FnZ", "share": 100 }
+    ]
+  },
+  "compiler": "HashLips Art Engine"
+}

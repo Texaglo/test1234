@@ -1,0 +1,22 @@
+{
+  "name": "Mayan Blow Dart Lv 2 #13",
+  "description": "Mayan Blow Dart Lv 2",
+  "symbol": "Mayan",
+  "image": "13.png",
+  "dna": "4eb05c9f05a40fbcb873b9f868959c7b5b642336",
+  "edition": 13,
+  "seller_fee_basis_points": 500,
+  "date": 1655027067656,
+  "attributes": [
+    {
+      "trait_type": "Mayan",
+      "value": "Mayan Blow Dart Lv 2"
+    }
+  ],
+  "properties": {
+    "creators": [
+      { "address": "7im44qw4T9UA6P3czi1Cr1pPabf1xqwqgJnLN5bR2FnZ", "share": 100 }
+    ]
+  },
+  "compiler": "HashLips Art Engine"
+}

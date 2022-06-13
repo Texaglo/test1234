@@ -1,0 +1,22 @@
+{
+  "name": "Samurai Amenonuhoko Spear Lv 4 #22",
+  "description": "Samurai Amenonuhoko Spear Lv 4",
+  "symbol": "Miscellaneous",
+  "image": "22.png",
+  "dna": "e862276151cbbb5792631fcb623a60e56e7018fe",
+  "edition": 22,
+  "seller_fee_basis_points": 500,
+  "date": 1655027645033,
+  "attributes": [
+    {
+      "trait_type": "Miscellaneous",
+      "value": "Samurai Amenonuhoko Spear Lv 4"
+    }
+  ],
+  "properties": {
+    "creators": [
+      { "address": "7im44qw4T9UA6P3czi1Cr1pPabf1xqwqgJnLN5bR2FnZ", "share": 100 }
+    ]
+  },
+  "compiler": "HashLips Art Engine"
+}

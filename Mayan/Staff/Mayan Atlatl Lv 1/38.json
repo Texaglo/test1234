@@ -1,0 +1,22 @@
+{
+  "name": "Mayan Atlatl Lv 1 #38",
+  "description": "Mayan Atlatl Lv 1",
+  "symbol": "Mayan",
+  "image": "38.png",
+  "dna": "ee2168d3d0fbed9acfd8e83a16dfd3faa8da305a",
+  "edition": 38,
+  "seller_fee_basis_points": 500,
+  "date": 1655027352858,
+  "attributes": [
+    {
+      "trait_type": "Mayan",
+      "value": "Mayan Atlatl Lv 1"
+    }
+  ],
+  "properties": {
+    "creators": [
+      { "address": "7im44qw4T9UA6P3czi1Cr1pPabf1xqwqgJnLN5bR2FnZ", "share": 100 }
+    ]
+  },
+  "compiler": "HashLips Art Engine"
+}

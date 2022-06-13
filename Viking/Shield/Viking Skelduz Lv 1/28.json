@@ -1,0 +1,22 @@
+{
+  "name": "Viking Skelduz Lv 1 #28",
+  "description": "Viking Skelduz Lv 1",
+  "symbol": "Viking",
+  "image": "28.png",
+  "dna": "d47c3192aa390d76162b74b9bfe03174c87a7274",
+  "edition": 28,
+  "seller_fee_basis_points": 500,
+  "date": 1655028319766,
+  "attributes": [
+    {
+      "trait_type": "Viking",
+      "value": "Viking Skelduz Lv 1"
+    }
+  ],
+  "properties": {
+    "creators": [
+      { "address": "7im44qw4T9UA6P3czi1Cr1pPabf1xqwqgJnLN5bR2FnZ", "share": 100 }
+    ]
+  },
+  "compiler": "HashLips Art Engine"
+}

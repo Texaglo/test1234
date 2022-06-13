@@ -1,0 +1,22 @@
+{
+  "name": "GEMS EARTH #17",
+  "description": "GEMS EARTH",
+  "symbol": "Gems",
+  "image": "17.png",
+  "dna": "ae13da02f27c1cef3780758a74fadcd8a9fb65ed",
+  "edition": 17,
+  "seller_fee_basis_points": 500,
+  "date": 1655025637479,
+  "attributes": [
+    {
+      "trait_type": "gems",
+      "value": "GEMS EARTH-01"
+    }
+  ],
+  "properties": {
+    "creators": [
+      { "address": "7im44qw4T9UA6P3czi1Cr1pPabf1xqwqgJnLN5bR2FnZ", "share": 100 }
+    ]
+  },
+  "compiler": "HashLips Art Engine"
+}

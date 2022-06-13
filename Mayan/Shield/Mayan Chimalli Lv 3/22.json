@@ -1,0 +1,22 @@
+{
+  "name": "Mayan Chimalli Lv 3 #22",
+  "description": "Mayan Chimalli Lv 3",
+  "symbol": "Mayan",
+  "image": "22.png",
+  "dna": "b1d51380220778d472265897f5321fecadb6cb25",
+  "edition": 22,
+  "seller_fee_basis_points": 500,
+  "date": 1655027182770,
+  "attributes": [
+    {
+      "trait_type": "Mayan",
+      "value": "Mayan Chimalli Lv 3"
+    }
+  ],
+  "properties": {
+    "creators": [
+      { "address": "7im44qw4T9UA6P3czi1Cr1pPabf1xqwqgJnLN5bR2FnZ", "share": 100 }
+    ]
+  },
+  "compiler": "HashLips Art Engine"
+}

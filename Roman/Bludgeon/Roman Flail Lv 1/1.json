@@ -1,0 +1,22 @@
+{
+  "name": "Roman Flail Lv 1 #1",
+  "description": "Roman Flail Lv 1",
+  "symbol": "Roman",
+  "image": "1.png",
+  "dna": "d3fdaeea81078580972a4f56e0a8730e190bced3",
+  "edition": 1,
+  "seller_fee_basis_points": 500,
+  "date": 1655027767188,
+  "attributes": [
+    {
+      "trait_type": "Roman",
+      "value": "Roman Flail Lv 1"
+    }
+  ],
+  "properties": {
+    "creators": [
+      { "address": "7im44qw4T9UA6P3czi1Cr1pPabf1xqwqgJnLN5bR2FnZ", "share": 100 }
+    ]
+  },
+  "compiler": "HashLips Art Engine"
+}

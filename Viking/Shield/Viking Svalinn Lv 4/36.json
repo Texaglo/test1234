@@ -1,0 +1,22 @@
+{
+  "name": "Viking Svalinn Lv 4 #36",
+  "description": "Viking Svalinn Lv 4",
+  "symbol": "Viking",
+  "image": "36.png",
+  "dna": "71ee1b12b0a85758bd774c46ce48bbf2d7e85314",
+  "edition": 36,
+  "seller_fee_basis_points": 500,
+  "date": 1655028362718,
+  "attributes": [
+    {
+      "trait_type": "Viking",
+      "value": "Viking Svalinn Lv 4"
+    }
+  ],
+  "properties": {
+    "creators": [
+      { "address": "7im44qw4T9UA6P3czi1Cr1pPabf1xqwqgJnLN5bR2FnZ", "share": 100 }
+    ]
+  },
+  "compiler": "HashLips Art Engine"
+}

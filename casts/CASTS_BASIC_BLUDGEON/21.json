@@ -1,0 +1,22 @@
+{
+  "name": "CASTS_BASIC_BLUDGEON #21",
+  "description": "CASTS_BASIC_BLUDGEON",
+  "symbol": "Casts",
+  "image": "21.png",
+  "dna": "e168963b3727e667ac94cdccab0b6b195439c205",
+  "edition": 21,
+  "seller_fee_basis_points": 500,
+  "date": 1655017259504,
+  "attributes": [
+    {
+      "trait_type": "casts",
+      "value": "CASTS_BASIC_BLUDGEON-01"
+    }
+  ],
+  "properties": {
+    "creators": [
+      { "address": "7im44qw4T9UA6P3czi1Cr1pPabf1xqwqgJnLN5bR2FnZ", "share": 100 }
+    ]
+  },
+  "compiler": "HashLips Art Engine"
+}

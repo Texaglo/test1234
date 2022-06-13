@@ -1,0 +1,22 @@
+{
+  "name": "Viking Gusisnautar Lv 4 #22",
+  "description": "Viking Gusisnautar Lv 4",
+  "symbol": "Viking",
+  "image": "22.png",
+  "dna": "5b5e3636c4e6e2508da9a993a400bb342044518d",
+  "edition": 22,
+  "seller_fee_basis_points": 500,
+  "date": 1655028295259,
+  "attributes": [
+    {
+      "trait_type": "Viking",
+      "value": "Viking Gusisnautar Lv 4"
+    }
+  ],
+  "properties": {
+    "creators": [
+      { "address": "7im44qw4T9UA6P3czi1Cr1pPabf1xqwqgJnLN5bR2FnZ", "share": 100 }
+    ]
+  },
+  "compiler": "HashLips Art Engine"
+}

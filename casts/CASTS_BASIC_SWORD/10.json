@@ -1,0 +1,22 @@
+{
+  "name": "CASTS_BASIC_SWORD #10",
+  "description": "CASTS_BASIC_SWORD",
+  "symbol": "Casts",
+  "image": "10.png",
+  "dna": "7086450c6772beebeb596ef50a421415c0ef71e2",
+  "edition": 10,
+  "seller_fee_basis_points": 500,
+  "date": 1655024782757,
+  "attributes": [
+    {
+      "trait_type": "casts",
+      "value": "CASTS_BASIC_SWORD-01"
+    }
+  ],
+  "properties": {
+    "creators": [
+      { "address": "7im44qw4T9UA6P3czi1Cr1pPabf1xqwqgJnLN5bR2FnZ", "share": 100 }
+    ]
+  },
+  "compiler": "HashLips Art Engine"
+}

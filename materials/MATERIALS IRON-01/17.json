@@ -1,0 +1,22 @@
+{
+  "name": "MATERIALS IRON #17",
+  "description": "MATERIALS IRON",
+  "symbol": "Materials",
+  "image": "17.png",
+  "dna": "dfc99655378f0ee75d2bd87013d56b708a2536b2",
+  "edition": 17,
+  "seller_fee_basis_points": 500,
+  "date": 1655026450262,
+  "attributes": [
+    {
+      "trait_type": "materials",
+      "value": "MATERIALS IRON-01"
+    }
+  ],
+  "properties": {
+    "creators": [
+      { "address": "7im44qw4T9UA6P3czi1Cr1pPabf1xqwqgJnLN5bR2FnZ", "share": 100 }
+    ]
+  },
+  "compiler": "HashLips Art Engine"
+}

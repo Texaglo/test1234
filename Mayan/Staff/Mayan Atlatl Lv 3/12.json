@@ -1,0 +1,22 @@
+{
+  "name": "Mayan Atlatl Lv 3 #12",
+  "description": "Mayan Atlatl Lv 3",
+  "symbol": "Mayan",
+  "image": "12.png",
+  "dna": "d8ff19c7eafc522bca199b6c57cb184173791816",
+  "edition": 12,
+  "seller_fee_basis_points": 500,
+  "date": 1655027332889,
+  "attributes": [
+    {
+      "trait_type": "Mayan",
+      "value": "Mayan Atlatl Lv 3"
+    }
+  ],
+  "properties": {
+    "creators": [
+      { "address": "7im44qw4T9UA6P3czi1Cr1pPabf1xqwqgJnLN5bR2FnZ", "share": 100 }
+    ]
+  },
+  "compiler": "HashLips Art Engine"
+}

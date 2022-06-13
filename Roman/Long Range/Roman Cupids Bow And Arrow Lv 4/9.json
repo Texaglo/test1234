@@ -1,0 +1,22 @@
+{
+  "name": "Roman Cupids Bow And Arrow Lv 4 #9",
+  "description": "Roman Cupids Bow And Arrow Lv 4",
+  "symbol": "Roman",
+  "image": "9.png",
+  "dna": "e468045cc5ccfb21b8c469566a0c13c266a30b79",
+  "edition": 9,
+  "seller_fee_basis_points": 500,
+  "date": 1655027903026,
+  "attributes": [
+    {
+      "trait_type": "Roman",
+      "value": "Roman Cupids Bow And Arrow Lv 4"
+    }
+  ],
+  "properties": {
+    "creators": [
+      { "address": "7im44qw4T9UA6P3czi1Cr1pPabf1xqwqgJnLN5bR2FnZ", "share": 100 }
+    ]
+  },
+  "compiler": "HashLips Art Engine"
+}

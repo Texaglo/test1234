@@ -1,0 +1,22 @@
+{
+  "name": "Samurai Grasscutter Katana Lv 4 #8",
+  "description": "Samurai Grasscutter Katana Lv 4",
+  "symbol": "Miscellaneous",
+  "image": "8.png",
+  "dna": "7bbb31c444e304879712736c14ec208588e40f4b",
+  "edition": 8,
+  "seller_fee_basis_points": 500,
+  "date": 1655027682185,
+  "attributes": [
+    {
+      "trait_type": "Miscellaneous",
+      "value": "Samurai Grasscutter Katana Lv 4"
+    }
+  ],
+  "properties": {
+    "creators": [
+      { "address": "7im44qw4T9UA6P3czi1Cr1pPabf1xqwqgJnLN5bR2FnZ", "share": 100 }
+    ]
+  },
+  "compiler": "HashLips Art Engine"
+}

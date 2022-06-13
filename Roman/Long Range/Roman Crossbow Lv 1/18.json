@@ -1,0 +1,22 @@
+{
+  "name": "Roman Crossbow Lv 1 #18",
+  "description": "Roman Crossbow Lv 1",
+  "symbol": "Roman",
+  "image": "18.png",
+  "dna": "77d7661535ba4cb041545118f29e1dcc8e722e23",
+  "edition": 18,
+  "seller_fee_basis_points": 500,
+  "date": 1655027848486,
+  "attributes": [
+    {
+      "trait_type": "Roman",
+      "value": "Roman Crossbow Lv 1"
+    }
+  ],
+  "properties": {
+    "creators": [
+      { "address": "7im44qw4T9UA6P3czi1Cr1pPabf1xqwqgJnLN5bR2FnZ", "share": 100 }
+    ]
+  },
+  "compiler": "HashLips Art Engine"
+}
